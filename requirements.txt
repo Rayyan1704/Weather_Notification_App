@@ -1,0 +1,8 @@
+# CustomTkinter - Modern UI for Tkinter applications
+customtkinter==5.2.1
+
+# Requests - To make API requests to OpenWeatherMap
+requests==2.32.3
+
+# Plyer - To show system notifications
+plyer==2.1.0
